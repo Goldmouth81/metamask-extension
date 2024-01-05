@@ -271,12 +271,12 @@ exports[`AdvancedTab Component should match snapshot 1`] = `
         class="settings-page__content-item"
       >
         <span>
-          Show extension in full size view
+          Show extension in full-size view
         </span>
         <div
           class="settings-page__content-description"
         >
-          When enabled, it will automatically open the extension in full size view after clicking on the extension icon
+          Turn this on to make full-size view your default when you click the extension icon
         </div>
       </div>
       <div
@@ -435,7 +435,7 @@ exports[`AdvancedTab Component should match snapshot 1`] = `
                 value="0"
               />
             </div>
-            
+
           </div>
           <button
             class="button btn--rounded btn-primary settings-tab__rpc-save-button"
