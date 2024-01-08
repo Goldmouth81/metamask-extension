@@ -904,6 +904,7 @@
         "URL": true,
         "clearInterval": true,
         "clearTimeout": true,
+        "console.error": true,
         "console.log": true,
         "setInterval": true,
         "setTimeout": true
